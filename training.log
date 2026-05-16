@@ -1,0 +1,63 @@
+2026-05-15 21:10:42,961 - INFO - Data Loaded Successfully
+2026-05-15 21:12:35,688 - INFO - Data Loaded Successfully
+2026-05-15 21:13:30,660 - INFO - Data Loaded Successfully
+2026-05-15 21:14:39,137 - INFO - Data Loaded Successfully
+2026-05-15 21:15:30,389 - INFO - Data Loaded Successfully
+2026-05-15 21:18:49,444 - INFO - Data Loaded Successfully
+2026-05-15 21:18:49,494 - INFO - Data preprocessed successfully
+2026-05-15 21:18:49,513 - INFO - Data split into train and test sets successfully
+2026-05-15 21:19:27,640 - INFO - Data Loaded Successfully
+2026-05-15 21:20:07,837 - INFO - Data Loaded Successfully
+2026-05-15 21:20:59,902 - INFO - Data Loaded Successfully
+2026-05-15 21:26:36,346 - INFO - Data Loaded Successfully
+2026-05-15 21:27:16,479 - INFO - Data Loaded Successfully
+2026-05-15 21:27:49,533 - INFO - Data Loaded Successfully
+2026-05-15 21:27:49,556 - INFO - Data preprocessed successfully
+2026-05-15 21:27:49,562 - INFO - Data split into train and test sets successfully
+2026-05-15 21:28:53,071 - INFO - Data Loaded Successfully
+2026-05-15 21:30:36,122 - INFO - Data Loaded Successfully
+2026-05-15 21:30:36,134 - INFO - Data preprocessed successfully
+2026-05-15 21:30:36,140 - INFO - Data split into train and test sets successfully
+2026-05-15 21:31:56,358 - INFO - Data Loaded Successfully
+2026-05-15 21:31:56,382 - INFO - Data preprocessed successfully
+2026-05-15 21:31:56,400 - INFO - Data split into train and test sets successfully
+2026-05-16 11:41:25,896 - INFO - Data Loaded Successfully
+2026-05-16 11:41:25,952 - INFO - Data preprocessed successfully
+2026-05-16 11:41:25,960 - INFO - Data split into train and test sets successfully
+2026-05-16 11:44:52,437 - INFO - Data Loaded Successfully
+2026-05-16 11:44:52,461 - INFO - Data preprocessed successfully
+2026-05-16 11:44:52,468 - INFO - Data split into train and test sets successfully
+2026-05-16 11:44:52,511 - INFO - Model evaluated successfully with accuracy: 0.791667
+2026-05-16 11:44:52,512 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.34      0.51        38
+           1       0.77      1.00      0.87        82
+
+    accuracy                           0.79       120
+   macro avg       0.88      0.67      0.69       120
+weighted avg       0.84      0.79      0.75       120
+
+2026-05-16 11:44:52,512 - INFO - Confusion Matrix:
+[[13 25]
+ [ 0 82]]
+2026-05-16 11:44:52,515 - ERROR - Error while saving model: [Errno 2] No such file or directory: 'C:/Users/swath/Desktop/Projects_MLDL/Loan_status_prediction\\models\\loan_status_model.pkl'
+2026-05-16 11:45:51,394 - INFO - Data Loaded Successfully
+2026-05-16 11:45:51,405 - INFO - Data preprocessed successfully
+2026-05-16 11:45:51,409 - INFO - Data split into train and test sets successfully
+2026-05-16 11:45:51,434 - INFO - Model evaluated successfully with accuracy: 0.791667
+2026-05-16 11:45:51,435 - INFO - Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      0.34      0.51        38
+           1       0.77      1.00      0.87        82
+
+    accuracy                           0.79       120
+   macro avg       0.88      0.67      0.69       120
+weighted avg       0.84      0.79      0.75       120
+
+2026-05-16 11:45:51,435 - INFO - Confusion Matrix:
+[[13 25]
+ [ 0 82]]
+2026-05-16 11:45:51,437 - INFO - Model saved successfully at loan_status_model.pkl
+2026-05-16 11:45:51,437 - INFO - Model training pipeline completed successfully
